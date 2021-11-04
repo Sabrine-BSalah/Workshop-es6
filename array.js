@@ -23,8 +23,8 @@ let array = [15, 24, 15, 26, 1, 8, 45]
 // console.log(array7)
 
 
-let combine = [100, 12, ...array]
-console.log(combine)
+// let combine = [100, 12, ...array]
+// console.log(combine)
 
 
 //  function somme (){

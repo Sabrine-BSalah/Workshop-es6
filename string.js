@@ -2,7 +2,7 @@ const title = 'Jack and Jill Went Up the Hill';
 
 // console.log(title.startsWith('Jack'));
 // console.log(title.startsWith('jack'));
-// console.log(title.startsWith('Jill', 10));
+console.log(title.startsWith('Jill', 10));
 
 // console.log(title.endsWith('Hill'));
 // console.log(title.endsWith('hill'));
@@ -20,5 +20,5 @@ let str = 'JavaScript String';
 // console.log(str.substring(4, 10));
 // console.log(str.split(""));
 
-let str2 = str.split("")
-console.log(str2.join(""));
+// let str2 = str.split("")
+// console.log(str2.join(""));

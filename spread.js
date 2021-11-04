@@ -20,15 +20,15 @@ let inputs = [1, 2, 3];
 // ---------
 let arr = [1, 2, 3];
 //   let copiedArr = [0, ...arr, 4];
-let copiedArr = arr
-copiedArr.push(4);
-console.log(arr, copiedArr);
+// let copiedArr = arr
+// copiedArr.push(4);
+// console.log(arr, copiedArr);
 
 
 // Example 4
 // // ---------
-let cities = ['San Francisco', 'Los Angeles'];
-let places = ['Paris', ...cities, 'Chicago'];
+// let cities = ['San Francisco', 'Los Angeles'];
+// let places = ['Paris', ...cities, 'Chicago'];
 
-console.log(cities);
-console.log(places);
+// console.log(cities);
+// console.log(places);

@@ -23,9 +23,6 @@
 // console.log(x, y);
 // console.log(arr);
 
-// skip values
-//let [a, , ,c, , ,b , ] = arr;
-// console.log(a , c , b);
 
 
 // let arr1=[{ foo: 111, bar: 222, foobar: 333 }, { foo: 11, bar: 22, foobar: 33 }, { foo: 1, bar: 2, foobar: 3 }]
